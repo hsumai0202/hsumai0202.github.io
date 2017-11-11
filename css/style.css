@@ -253,7 +253,6 @@ p {
     flex-grow: 0;
 }
 
-
 .tow>* {
     width: 50%;
 }
@@ -263,7 +262,7 @@ p {
 }
 
 .tow .inner {
-    padding: 6rem;
+    margin: 0;
 }
 
 .tow .image {
